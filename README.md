@@ -1,8 +1,8 @@
 Hi there, I’m @antoniofmoraes
 
-I'm a full-stack developer.
-C#, Angular and react.
-Currenctly studying Golang!
+- Full-stack developer.
+- C#, Angular and react.
+- Currenctly learning Golang!
 
 
 <div> 
