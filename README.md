@@ -1,7 +1,8 @@
-- 👋 Hi there, I’m @antoniofmoraes
-- 👀 I’m interested in Open Source Software
-- 🌱 I’m currently learning NodeJS, ReactJS and MongoDB
+Hi there, I’m @antoniofmoraes
 
+I'm a full-stack developer.
+C#, Angular and react.
+Currenctly studying Golang!
 
 
 <div> 
