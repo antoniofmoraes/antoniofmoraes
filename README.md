@@ -5,7 +5,6 @@
 - 🔧 Core stack: **C#, .NET, ASP.NET Core, REST APIs, Clean Architecture**
 - ☁️ Cloud & DevOps: **AWS (Lambda, CDK), Azure DevOps, Docker, CI/CD**
 - 🧪 Quality-driven: Unit Testing, SOLID, SonarCloud
-- 🌍 Based in Brazil, open to **remote international opportunities**
 
 ## About me
 
