@@ -1,13 +1,21 @@
-Hi there, I’m @antoniofmoraes
+# Hi, I'm Antonio Moraes 👋
 
-- Full-stack developer.
-- C#, Angular and react.
-- Currenctly learning Golang!
+**Senior Software Engineer** with 6+ years of experience building scalable back-end systems.
 
+- 🔧 Core stack: **C#, .NET, ASP.NET Core, REST APIs, Clean Architecture**
+- ☁️ Cloud & DevOps: **AWS (Lambda, CDK), Azure DevOps, Docker, CI/CD**
+- 🧪 Quality-driven: Unit Testing, SOLID, SonarCloud
+- 🌍 Based in Brazil, open to **remote international opportunities**
+
+## About me
+
+I specialize in designing and maintaining robust back-end services, with experience across global teams (including Microsoft via Wipro). I'm passionate about clean code, scalable architectures, and high-performance systems.
+
+📫 **antonio.f.f.moraes@gmail.com**
 
 <div> 
-  <a href="https://www.linkedin.com/in/antonio-moraes-78a033151/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href = "mailto:anotonio.f.f.moraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/antonioffmoraes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:antonio.f.f.moraes@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 ##
